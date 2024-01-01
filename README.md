@@ -46,7 +46,7 @@ Connect the supply (+5V) to the circuit Switch ON the main switch If the output 
 ![image](https://github.com/KAMALESHNITHYA/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/145743119/ff4187c6-006c-4238-980d-2f21b650cfb6)
 
 
-### RTL
+## RTL
 
 ## HALF ADDER 
 ![image](https://github.com/KAMALESHNITHYA/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/145743119/304b3284-dffd-43fd-93c0-bc20423ea8c0)
@@ -54,7 +54,7 @@ Connect the supply (+5V) to the circuit Switch ON the main switch If the output 
 ## FULL ADDER
 ![image](https://github.com/KAMALESHNITHYA/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/145743119/10b600cb-2b81-4604-a925-cf68b76a58a1)
 
-### TIMING DIAGRAM
+## TIMING DIAGRAM
 
 ## HALF ADDER 
 ![image](https://github.com/KAMALESHNITHYA/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/145743119/6be9217c-6c8d-466a-b41e-b7ec41b4b2f7)
@@ -63,7 +63,7 @@ Connect the supply (+5V) to the circuit Switch ON the main switch If the output 
 ![image](https://github.com/KAMALESHNITHYA/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/145743119/d3d269a2-4b75-437a-943f-5bde17a2bf65)
 
 
-### TRUTH TABLE 
+## TRUTH TABLE 
 ## HALF ADDER 
 ![image](https://github.com/KAMALESHNITHYA/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/145743119/389b51db-a45c-400b-bb0a-6ab6d0f37414)
 
@@ -71,5 +71,5 @@ Connect the supply (+5V) to the circuit Switch ON the main switch If the output 
 ![image](https://github.com/KAMALESHNITHYA/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/145743119/36ab7d62-ec67-4fef-bd60-9d918a8d602e)
 
 
-### Result:
+## Result:
 Thus, a half adder and full adder circuit is designed to verify its truth table in Quartus using Verilog programming
